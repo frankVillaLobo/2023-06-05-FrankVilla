@@ -1,0 +1,5 @@
+Placa madre (Motherboard): Es el componente principal de la computadora que conecta y coordina todas las demás partes del sistema. Contiene el procesador, la memoria, los puertos de conexión y otros componentes esenciales.
+
+Disco duro (Hard Drive): Es el dispositivo de almacenamiento principal de la computadora. Aquí se guardan los archivos, programas y el sistema operativo de la computadora de forma permanente. El disco duro utiliza discos magnéticos para almacenar la información.
+
+Memoria RAM (Random Access Memory): Es la memoria de acceso aleatorio de la computadora. Almacena temporalmente los datos y programas que están en uso mientras la computadora está encendida. La memoria RAM permite un acceso rápido a los datos, lo que mejora el rendimiento general del sistema.
